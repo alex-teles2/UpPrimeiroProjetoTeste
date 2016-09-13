@@ -1,0 +1,12 @@
+<rot>
+	<Pessoas>
+		<pessoa>
+			<nome>teste1</nome>
+			<cpf>123123123</cpf>
+		</pessoa>
+		<pessoa>
+			<nome>teste2</nome>
+			<cpf>321654987</cpf>
+		</pessoa>
+	</Pessoas>
+<rot>
