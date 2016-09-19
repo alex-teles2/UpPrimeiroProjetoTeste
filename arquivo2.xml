@@ -8,5 +8,9 @@
 			<nome>teste2</nome>
 			<cpf>321654987</cpf>
 		</pessoa>
+		<pessoa>
+			<nome>Alex Teles</nome>
+			<cpf>123.123.123.00</cpf>
+		</pessoa>
 	</Pessoas>
 <rot>
